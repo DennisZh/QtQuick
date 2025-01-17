@@ -41,81 +41,153 @@ Offical WeChat Account：“HMI开发”
 
 # 第2章 QML
 2.1 QML语法
+
 2.2 import
+
 2.3.1 id
+
 2.3.2 属性
+
 2.3.3 附加属性
+
 2.3.4 方法
+
 2.3.5 信号
+
 2.3.6 枚举
+
 2.4.1 基本类型
+
 2.4.2 其他类型
+
 2.5 JavaScript
+
 2.6.1 自定义QML组件
+
 2.6.2 作用域
+
 2.6.3 代码风格
+
 
 # 第3章 Qt Quick基础
 3.1.1 项目Item
+
 3.1.2 矩形Rectangle
+
 3.1.3 文本text
+
 3.1.4 标签Label
+
 3.1.5 文本输入框TextInput
+
 3.1.6 文本编辑框TextEdit
+
 3.2.1 行列布局Row Column
+
 3.2.2 栅格布局Grid
+
 3.2.3 流布局Flow
+
 3.2.4 布局过渡Transition
+
 3.2.5 重复器Repeater
+
 3.2.6 锚布局Anchors
+
 3.2.7 布局管理器Layouts
+
 3.3.1 触摸区域MouseArea
+
 3.3.2 鼠标事件MouseEvent
+
 3.3.3 拖拽事件DragEvent
+
 3.3.4 键盘事件KeyEvent
+
 3.3.5 定时器Timer
+
 3.4 自定义滑动区域SwipeArea
+
 3.5 自定义按钮QuickButton
+
 3.6 Loader
+
 3.7 综合示例HarmonyUI
+
 
 # 第4章 Qt Quick控件
 4.1 窗口Window
+
 4.2 应用主窗口ApplicationWindow
+
 4.3 控件基类型Control
+
 4.4.1 按钮Button
+
 4.4.2 复选框CheckBox
+
 4.4.3 单选框RadioButton
+
 4.4.4 按钮组ButtonGroup
+
 4.4.5 延时按钮DelayButton
+
 4.4.6 开关按钮Switch
+
 4.5.1 进度条ProgressBar
+
 4.5.2 忙碌指示器BusyIndicator
+
 4.6.1 组合框ComboBox
+
 4.6.2 旋钮Dial
+
 4.6.3 滑动条Slider
+
 4.6.4 数值输入器SpinBox
+
 4.6.5 滚轮Tumbler
+
 4.6.6 单行文本编辑器TextField
+
 4.6.7 多行文本编辑器TextArea
+
 4.7.1 边框容器Frame
+
 4.7.2 组容器GroupBox
+
 4.7.3 滑动视图SwipeView
+
 4.7.4 滚动视图ScrollView
+
 4.7.5 分割视图SplitView
+
 4.7.6 栈视图StackView
+
 4.7.7 选项卡TabBar
+
 4.8.1 项目代理ItemDelegate
+
 4.8.2 按钮类代理ButtonDelegate
+
 4.8.3 滑动代理SwipeDelegate
+
 4.9 菜单Menu
+
 4.10 导航控件Drawer
+
 4.11 弹出控件Popup
+
 4.12 日期控件Date
+
 4.13 分隔控件Separator
+
 4.14 设置控件样式QuickStyle
+
 4.15 自定义控件QuickToast
+
 4.16 自定义控件QuickSliderBar
+
 
 # 第5章 Qt Quick对话框
 5.1 消息对话框MessageDialog
