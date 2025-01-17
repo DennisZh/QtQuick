@@ -19,16 +19,25 @@ Offical WeChat Account：“HMI开发”
 # 课程目录（Content）
 # 第0章 Qt Quick开发教程
 0.1 教程简介
-0.2 目录
-0.3 学习方法
+
+0.2 目录 
+
+0.3 学习方法 
+
 
 # 第1章 Qt Quick简介
 1.1 Qt Quick
+
 1.2.1 Qt6安装
+
 1.2.2 Qt Creator配置
+
 1.3 新建Qt Quick Application工程
+
 1.4 新建QML工程
+
 1.5 Qt帮助文档
+
 
 # 第2章 QML
 2.1 QML语法
